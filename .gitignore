@@ -1,3 +1,7 @@
 node_modules
 config
 mongodb.js
+__mocks__
+@sendgrid
+mail.js
+Escape-room.jpeg
